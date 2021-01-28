@@ -334,10 +334,11 @@ img.HourOfCode:hover{
 }
 
 .galery:link{
-    display: inline;
+    display: inline-block;
     width:150px;
     height:40px;
     padding: 10px 20px;
+    margin-bottom: 5px;
     background-color: black;
     color: white;
     text-decoration: none;
@@ -391,5 +392,31 @@ img.HourOfCode:hover{
 }
 
 .robotics:hover{
+    opacity: 0.8;
+}
+
+.galery1:link{
+    display: inline;
+    width:150px;
+    height:40px;
+    padding: 10px 20px;
+    margin-bottom: 5px;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px 2px rgba(20,23,28,.15);
+    transition: opacity 0.8s;
+}
+
+.galery1:active{
+    color: white;
+}
+
+.galery1:visited{
+    color: white;
+}
+
+.galery1:hover{
     opacity: 0.8;
 }
