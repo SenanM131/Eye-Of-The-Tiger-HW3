@@ -60,7 +60,7 @@ const pages = [
             
             <h5>Huseyn Valiyev</h5>   
             
-            <p class="Text">Huseyn is 18 years old. He studied at school No.158 and also he graduated from Ders Evi in 2019. He is freshman at ADA University and his major is Computer Science. Huseyn’s hobbies is to play basketball with his friends, playing piano and watching films in Netflix.</p>     
+            <p class="Text">Huseyn is 18 years old. He studied at school No.158 and also he graduated from Ders Evi in 2019. He is a freshman at ADA University and his major is Computer Science. Husayn's hobbies are playing basketball with his friends, playing the piano, and watching films on Netflix.</p>     
             
             </div>
             
