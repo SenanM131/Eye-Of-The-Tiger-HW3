@@ -60,7 +60,7 @@ const pages = [
             
             <h5>Huseyn Valiyev</h5>   
             
-            <p class="Text">Huseyn is 18 years old. He studied at school No.158 and also he graduated from Ders Evi in 2019. He is a freshman at ADA University and his major is Computer Science. Husayn's hobbies are playing basketball with his friends, playing the piano, and watching films on Netflix.</p>     
+            <p class="Text">Huseyn is 18 years old. He studied at school No.158 and also he graduated from Ders Evi in 2019. He is a freshman at ADA University and his major is Computer Science. Huseyn's hobbies are playing basketball with his friends, playing the piano, and watching films on Netflix.</p>     
             
             </div>
             
@@ -115,7 +115,12 @@ const pages = [
         <h3>Information about our Project</h3>
            
         <p class="text1">For website project, we worked three persons in a group. Before starting to create the website, we finished three courses from “Codecademy”. The names of these courses are “Learn HTML”, “Learn CSS”, and “Learn JavaScript”. To create the website, we used three types of file such as html, css and js from scratch. In this website project, we have given information about ourselves and our other projects such as “Hour of Code” and so on. </p>              
-            
+         
+        <a href="https://www.codecademy.com/profiles/SenanM" class="galery1" target="_blank" >Sanan's Profile</a>
+
+        <a href="https://www.codecademy.com/profiles/huseynvaliyev02" class="galery1" target="_blank" >Huseyn's Profile</a>
+
+        <a href=" https://www.codecademy.com/profiles/BashirIbayev" class="galery1" target="_blank" >Bashir's Profile</a>
         </main>`
     },
     {
@@ -148,7 +153,13 @@ const pages = [
         
         <h2 class="HOC">Information about Hour Of Code</h2>
         
-        <p class="text3">We held a virtual “Hour of Code” event at Lachin School No.18, on December 12, 2020. In that event, there were 21 students, and the end, each student was awarded a certificate. The main purpose of that event is to arouse students’ interest in computer science through games. We took many images and the whole video of the event. After the event, we shared the video on YouTube. The organizers of the event: Bashir Ibayev, Sanan Mardanli, and Huseyn Valiyev.</p>
+        <p class="text3">
+        The Hour of Code is a one-hour introduction to computer science and programming concepts, designed to demystify "coding", to show that anybody can learn the basics, and to broaden participation in the field of computer science. 
+        We held a virtual “Hour of Code” event at Lachin School No.18, on December 12, 2020. In that event, there were 21 students, and in the end, each student was awarded a certificate. 
+        The main purpose of that event is to arouse students’ interest in computer science through games. We took many images and the whole video of the event. After the event, we shared the video on YouTube. 
+        The organizers of the event: Bashir Ibayev, Sanan Mardanli, and Huseyn Valiyev. In that project, Sanan explained all course, answered students’ questions, and he took all meeting video. 
+        Bashir gave information about ADA University, Computer science, and Code.org, and he took photos and gave the certificate to all participants. Huseyn explained and helped pupils to correct mistakes from the chatbox.
+        </p>
         
         <a href="#" class="galery">SEE PICTURES</a>
         
